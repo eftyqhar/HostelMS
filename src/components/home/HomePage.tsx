@@ -239,7 +239,7 @@ export const HomePage: React.FC = () => {
                 HostelMS
               </span>
               <p className="text-[11px] font-semibold text-slate-500 dark:text-slate-400 mt-0.5 tracking-tight">
-                Sirajganj Polytechnic Institute
+                X Institute
               </p>
             </div>
           </div>
@@ -452,7 +452,7 @@ export const HomePage: React.FC = () => {
                       ? 'https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=1100&auto=format&fit=crop&q=80'
                       : 'https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?w=1000&auto=format&fit=crop&q=80'
                   }
-                  alt="Student Hostel Sirajganj Polytechnic Institute"
+                  alt="Student Hostel X Institute"
                   className="w-full h-[360px] sm:h-[440px] object-cover object-center group-hover:scale-[1.01] transition-transform duration-500 brightness-90 dark:brightness-100"
                 />
 
@@ -474,7 +474,7 @@ export const HomePage: React.FC = () => {
                     STUDENT HOSTEL
                   </p>
                   <p className="text-[10px] sm:text-xs font-bold text-[#0c4a34] dark:text-[#2ee693] uppercase tracking-wider mt-0.5">
-                    SIRAJGANJ POLYTECHNIC INSTITUTE
+                    X INSTITUTE
                   </p>
                 </div>
               </div>
@@ -1154,8 +1154,8 @@ export const HomePage: React.FC = () => {
                     <div>
                       <p className="text-[11px] text-emerald-200 dark:text-slate-400 font-medium">Hostel Office</p>
                       <p className="text-xs font-semibold text-white leading-relaxed mt-0.5">
-                        Sirajganj Polytechnic Institute<br />
-                        Sirajganj, Bangladesh
+                        X Institute<br />
+                        Campus, Bangladesh
                       </p>
                     </div>
                   </div>
@@ -1277,7 +1277,7 @@ export const HomePage: React.FC = () => {
                 <span className="text-lg font-black tracking-tight">HostelMS</span>
               </div>
               <p className="text-[11px] font-medium text-slate-400">
-                Sirajganj Polytechnic Institute
+                X Institute
               </p>
               <p className="text-[11px] text-slate-500 leading-relaxed pt-1">
                 Official Hostel Management System.<br />
@@ -1365,7 +1365,7 @@ export const HomePage: React.FC = () => {
               <ul className="space-y-2.5 text-[11px] leading-relaxed">
                 <li className="flex items-start gap-2">
                   <MapPin className="w-3.5 h-3.5 text-slate-400 mt-0.5 shrink-0" />
-                  <span>Sirajganj Polytechnic Institute, Sirajganj, Bangladesh</span>
+                  <span>X Institute, Campus, Bangladesh</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail className="w-3.5 h-3.5 text-slate-400 shrink-0" />

@@ -147,7 +147,7 @@ export const AuthPage: React.FC = () => {
       room: roomAssignment,
       department: regForm.department
     });
-    showToast(`Account created successfully! Welcome to SPI Hostel, ${regForm.name}.`);
+    showToast(`Account created successfully! Welcome to X Institute Hostel, ${regForm.name}.`);
   };
 
   // Quick 1-Click Fast Login Helpers
@@ -202,7 +202,7 @@ export const AuthPage: React.FC = () => {
                 HostelMS
               </span>
               <p className="text-[11px] font-semibold text-slate-500 dark:text-slate-400 mt-0.5 tracking-tight">
-                Sirajganj Polytechnic Institute
+                X Institute
               </p>
             </div>
           </button>
@@ -282,7 +282,7 @@ export const AuthPage: React.FC = () => {
 
               <div>
                 <h2 className="text-2xl font-black text-white leading-tight">
-                  Sirajganj Polytechnic <br />
+                  X Institute <br />
                   <span className="text-emerald-300 dark:text-[#2ee693]">Hostel Portal</span>
                 </h2>
                 <p className="text-xs text-emerald-100/90 dark:text-slate-300 mt-2 leading-relaxed">
@@ -702,7 +702,7 @@ export const AuthPage: React.FC = () => {
 
       {/* 3. Bottom Minimal Footer */}
       <footer className="py-4 text-center text-xs text-slate-400 dark:text-slate-500">
-        © 2024 HostelMS — Sirajganj Polytechnic Institute. All rights reserved.
+        © 2024 HostelMS — X Institute. All rights reserved.
       </footer>
     </div>
   );
